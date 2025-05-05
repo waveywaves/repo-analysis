@@ -1,0 +1,75 @@
+==================================================
+       TEKTONCD/PIPELINE COMMIT ANALYSIS          
+==================================================
+
+Total commits analyzed: 674
+Time period: 2024-01 to 2025-03
+Total unique contributors: 69
+
+==================================================
+                 MONTHLY ACTIVITY                 
+==================================================
+
+Commits by Month (ASCII Chart):
+2024-01: ########################################### (63)
+2024-02: ######################################### (60)
+2024-03: ######################### (36)
+2024-04: ################################################## (72)
+2024-05: ######################################## (58)
+2024-06: ################################# (48)
+2024-07: #################################### (53)
+2024-08: #################### (29)
+2024-09: ######################### (37)
+2024-10: ###################### (32)
+2024-11: ############## (21)
+2024-12: ############### (23)
+2025-01: ######################################## (59)
+2025-02: ##################### (31)
+2025-03: #################################### (52)
+
+Unique Authors by Month:
+2024-01: 11 contributors
+2024-02: 15 contributors
+2024-03: 12 contributors
+2024-04: 17 contributors
+2024-05: 13 contributors
+2024-06: 8 contributors
+2024-07: 16 contributors
+2024-08: 11 contributors
+2024-09: 10 contributors
+2024-10: 7 contributors
+2024-11: 6 contributors
+2024-12: 7 contributors
+2025-01: 14 contributors
+2025-02: 8 contributors
+2025-03: 12 contributors
+
+==================================================
+                 KEY STATISTICS                   
+==================================================
+
+Most active month: 2024-04 with 72 commits
+Month with most contributors: 2024-04 with 17 contributors
+Average commits per month: 44.93
+
+Top 5 Contributors:
+1. dependabot[bot]: 335 commits
+2. Vincent Demeester: 58 commits
+3. Andrea Frittoli: 29 commits
+4. Chitrang Patel: 28 commits
+5. qingliu: 25 commits
+
+==================================================
+               COMMIT MESSAGE ANALYSIS            
+==================================================
+
+Keywords in Commit Messages:
+ci: 391 occurrences (58.0%)
+fix: 119 occurrences (17.7%)
+chore: 106 occurrences (15.7%)
+test: 70 occurrences (10.4%)
+docs: 24 occurrences (3.6%)
+feature: 21 occurrences (3.1%)
+bug: 11 occurrences (1.6%)
+refactor: 6 occurrences (0.9%)
+perf: 3 occurrences (0.4%)
